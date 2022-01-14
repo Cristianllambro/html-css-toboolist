@@ -1,0 +1,12 @@
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+.text-header h1{
+    vertical-align: middle;
+    display: inline;
+}
+
+.text-header img{
+    vertical-align: middle;
+}
