@@ -19,15 +19,19 @@ header{
 .button-one{
     background-color:hsl(203deg 80% 59%);
     border-radius: 5px;
-    border-color:hsl(203deg 80% 59%);
     color: white;
+    border: 1px solid hsl(203deg 80% 59%);
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .button-two{
     color: lightgray;
     border-radius: 5px;
-    box-sizing: border-box;
-    border-color: lightgray;
+    border: 1px solid lightgray;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: white;
 }
 
 .text-header h1{
@@ -66,4 +70,22 @@ li{
     padding: 5px 0;
 }
 
+.cross{
+    border-radius: 50%;
+    border: 1px solid red;
+    background-color: white
+}
 
+.inside{
+    color: red;
+}
+
+.check{
+    border-radius: 50%;
+    border: 1px solid green;
+    background-color: white 
+}
+
+.inside-2{
+    color: green;
+}
