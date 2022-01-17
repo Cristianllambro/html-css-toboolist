@@ -7,6 +7,7 @@ body{
     background-color: hsl(200deg 20% 97%);
 }
 
+/* star header */
 header{
     background-color: white;
     padding: 15px;
@@ -21,6 +22,7 @@ header{
     vertical-align: middle;
 }
 
+/* button */
 .container-main{
     background-color: white;
     width: 50%;
@@ -57,10 +59,10 @@ hr{
     padding: 0%;
 }
 
+/* mail list */
 .first-header{
     padding-top: 20px;
 }
-
 
 ul{
     list-style: none;
@@ -93,6 +95,7 @@ li{
     color: green;
 }
 
+/* button color */
 .bt{
     border-radius: 10px;
     border: 1px;
