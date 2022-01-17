@@ -78,7 +78,9 @@ li{
 .cross{
     border-radius: 50%;
     border: 1px solid red;
-    background-color: white
+    background-color: white;
+    width: 25px;
+    height: 25px;
 }
 
 .inside{
@@ -88,7 +90,9 @@ li{
 .check{
     border-radius: 50%;
     border: 1px solid green;
-    background-color: white 
+    background-color: white;
+    width: 25px;
+    height: 25px;
 }
 
 .inside-2{
